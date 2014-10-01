@@ -1,4 +1,5 @@
 # What are you looking for?
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Rajivhost/ReactiveTrader?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
  - [A quick overview](#overview)
  - [Video & Podcast](#video-and-podcast)
